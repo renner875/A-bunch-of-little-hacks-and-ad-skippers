@@ -1,7 +1,7 @@
 # A-bunch-of-little-hacks-and-adskippers
 Numerous small hacks for simple functions between tabs, as well as ad skippers:  
 
-TO USE THESE, SELECT THE HACK YOU WANT, PRESS ON "RAW" AND COPY THE CODE, THEN PASTE INTO A NEW BOOKMARK
+Go to this page to learn how: https://docs.google.com/document/d/1fj_r06niiCG6rqDxOo9QsdX_rSFw_qpqiKgw1NWGhY0/edit
 
 
 List of hacks: 
