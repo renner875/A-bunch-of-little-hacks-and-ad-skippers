@@ -18,7 +18,7 @@ List of hacks:
 -Regular ad blocker that eliminates all ads on a page
 
 
--Code that will spoof any tab to look like Google Drive
+-Code that will spoof any tab to look like Google Drive amonst other Google services
 
 
 -Edit the name of any tab
