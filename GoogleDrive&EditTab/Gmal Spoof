@@ -1,0 +1,8 @@
+javascript:function gcloak() { 
+var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+link.type = 'image/x-icon';link.rel = 'shortcut icon';
+link.href = 'https://th.bing.com/th/id/OIP.G89VIkkY5Tr3tj8GLJVt1AAAAA?pid=ImgDet&w=300&h=225&rs=1';
+document.title = 'Inbox - Gmail';
+console.log(document.title);
+document.getElementsByTagName('head')[0].appendChild(link) };
+gcloak();setInterval(gcloak, 1000);
