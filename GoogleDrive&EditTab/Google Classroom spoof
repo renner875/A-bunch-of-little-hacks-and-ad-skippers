@@ -1,0 +1,8 @@
+javascript:function gcloak() { 
+var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+link.type = 'image/x-icon';link.rel = 'shortcut icon';
+link.href = 'https://assets.materialup.com/uploads/8b832798-6fb8-4556-a3da-7bfebddbbb62/ZFohWhM3BO5Sy-S0B52G5Z0ZzsCVULHKuv0MfBJGq3KUEWFRNlHFuRPCSSX8f8yi7-Y=w300';
+document.title = 'My Classes - Google Classroom';
+console.log(document.title);
+document.getElementsByTagName('head')[0].appendChild(link) };
+gcloak();setInterval(gcloak, 1000);
