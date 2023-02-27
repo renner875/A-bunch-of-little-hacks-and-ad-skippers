@@ -1,7 +1,7 @@
 javascript:function gcloak() { 
 var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
 link.type = 'image/x-icon';link.rel = 'shortcut icon';
-link.href = 'https://logowik.com/content/uploads/images/t_gmail-2020-new5931.jpg';
+link.href = 'https://bpb-us-e1.wpmucdn.com/sites.usc.edu/dist/b/657/files/2021/06/icon-google-gmail-new-300x300.png';
 document.title = 'Inbox - Gmail';
 console.log(document.title);
 document.getElementsByTagName('head')[0].appendChild(link) };
