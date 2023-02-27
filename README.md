@@ -18,12 +18,6 @@ List of hacks:
 -Regular ad blocker that eliminates all ads on a page
 
 
--Code that will spoof any tab to look like Google Drive amonst other Google services
-
-
--Edit the name of any tab
-
-
 -Blur and unblur any page
 
 
@@ -32,4 +26,4 @@ List of hacks:
 
 
 
-Made in collaboration with emk7
+Based off coded written by 2emk7
