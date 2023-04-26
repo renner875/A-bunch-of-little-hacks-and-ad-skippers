@@ -1,4 +1,4 @@
-# A-bunch-of-little-hacks-and-adskippers
+# Skip ads and blur pages
 Numerous small hacks for simple functions between tabs, as well as ad skippers:  
 
 Go to this page to learn how: https://docs.google.com/document/d/1Fm8WTh_qbF-5xTJVcvTFTt_Ey9IqaQ5hClzVLDZUqh0/edit
