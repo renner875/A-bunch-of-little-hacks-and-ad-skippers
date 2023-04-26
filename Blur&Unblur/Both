@@ -1,4 +1,6 @@
-javascript: function blur() {
+javascript: 
+alert("press b to blur and u to unblur.");
+function blur() {
   document.body.style.filter = 'blur(8px)';
 }
 
